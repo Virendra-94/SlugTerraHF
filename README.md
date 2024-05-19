@@ -1,3 +1,6 @@
+## This is an Open-source repository on which I have contributed during Hacktober Fest 2023
+## I have worked on Frontend part of this project. 
+
 # SlugTerra
 
 There's no doubt that most  of our childhood was spent watching SlugTerra mostly on DisneyXD, we have seen it all and experienced it all. With Hacktoberfest 2020 coming up and being one of the people who would participate for the very first time, I decided to create this repository that's actually a very basic web-page that lets the user view and add their favourite pokemons. show your love for slug terra here .
